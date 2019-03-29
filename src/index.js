@@ -24,3 +24,5 @@ server.start(() => console.log("Server is running on http://localhost:4000"));
 // 4 üncü değişiklikte masteramı gidecek.
 
 // Branch merge edildikten sonra bakalım  değişiklikler nereye gidecek.
+
+// Branchı kaldırdık bakalım nasıl bir sonuç olacak.
