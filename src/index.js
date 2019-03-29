@@ -20,3 +20,5 @@ server.start(() => console.log("Server is running on http://localhost:4000"));
 // Yeni bir brancha a mı eklenecek bu yazdıklarım
 
 // 3 değişiklik yapıldı
+
+// 4 üncü değişiklikte masteramı gidecek.
