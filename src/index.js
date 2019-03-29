@@ -26,3 +26,5 @@ server.start(() => console.log("Server is running on http://localhost:4000"));
 // Branch merge edildikten sonra bakalım  değişiklikler nereye gidecek.
 
 // şimdi tekrar aynı şeyi gönderiyoruz push durumunda ne olacak bakalım.
+
+// branchi değiştirdik bakalım tam olarak nasıl bir etki yapacak.
